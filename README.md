@@ -39,6 +39,3 @@ python main.py
 - numpy
 - torch
 
-## 📄 Lisans
-
-MIT Lisansı ile lisanslanmıştır.
